@@ -30,8 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

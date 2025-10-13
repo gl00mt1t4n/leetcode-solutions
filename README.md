@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0066-plus-one) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Math
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gl00mt1t4n/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
